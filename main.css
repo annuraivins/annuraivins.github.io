@@ -1,0 +1,24 @@
+.body {
+    background-color: #d0e4fe;
+    padding-top: 65px;
+}
+
+.heading1 {
+    color: black;/*#FF69B4; Hot pink*/
+    text-align: center;
+}
+
+.heading2{
+	color: #FF69B4;
+	text-align: center;
+}
+
+.circular img {
+	border-radius: 150px;
+}
+
+.myContainer{
+	text-align: left;
+	width:75%;
+}
+
