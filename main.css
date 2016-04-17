@@ -1,0 +1,35 @@
+.body {
+    background-color: white;/*#d0e4fe*/
+    padding-top: 50px;
+}
+
+.heading1 {
+    color: black;/*#FF69B4; Hot pink*/
+    text-align: center;
+}
+
+.heading2{
+	color: black;/*#FF69B4 Hot Pink*/
+	text-align: center;
+}
+
+.circular img {
+	border-radius: 150px;
+}
+
+.myContainer{
+	text-align: left;
+	width:75%;
+}
+
+#full-screen-background-image {
+  z-index: -999;
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
